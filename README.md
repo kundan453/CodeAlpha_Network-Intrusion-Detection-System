@@ -51,3 +51,17 @@ This project is designed for educational purposes to demonstrate how IDS tools l
 
 ```bash
 python ids.py
+📊 Output
+
+Real-time packet count
+
+Alert count
+
+Timestamped intrusion alerts
+
+Visual IDS dashboard
+
+⚠️ Disclaimer
+
+This IDS is created strictly for learning and demonstration purposes.
+It is not a replacement for production-grade IDS tools like Snort or Suricata.
