@@ -65,3 +65,22 @@ Visual IDS dashboard
 
 This IDS is created strictly for learning and demonstration purposes.
 It is not a replacement for production-grade IDS tools like Snort or Suricata.
+
+📢 Follow
+
+Follow On Instagram :- codewithiitian
+
+
+---
+
+## 📌 GitHub Topics / Tags
+
+
+python
+cybersecurity
+network-security
+intrusion-detection
+ids
+scapy
+packet-analysis
+ethical-hacking
